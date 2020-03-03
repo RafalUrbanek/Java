@@ -1,0 +1,21 @@
+ID:900 name:fist min:00 max:00 armor:00 rarity:0 url:null
+ID:901 name:none min:00 max:00 armor:00 rarity:0 url:null
+ID:101 name:Rusty dagger min:01 max:03 armor:00 rarity:1 url:src\resources\weapons\dagger.png
+ID:102 name:Moldy club min:02 max:05 armor:00 rarity:1 url:src\resources\weapons\club.png
+ID:103 name:Sturdy axe min:02 max:07 armor:00 rarity:1 url:src\resources\weapons\axe.png
+ID:104 name:Mace min:03 max:09 armor:00 rarity:2 url:src\resources\weapons\mace.jpg
+ID:105 name:Sword min:05 max:07 armor:01 rarity:2 url:src\resources\weapons\sword.jpg
+ID:106 name:Gladius min:08 max:14 armor:03 rarity:3 url:src\resources\weapons\gladius.jpg
+ID:107 name:Bow min:01 max:25 armor:00 rarity:3 url:src\resources\weapons\bow.jpg
+ID:108 name:Battle axe min:10 max:30 armor:00 rarity:4 url:src\resources\weapons\long axe.jpg
+ID:109 name:Katana min:20 max:30 armor:05 rarity:4 url:src\resources\weapons\katana.jpg
+ID:110 name:Crossbow min:05 max:50 armor:00 rarity:4 url:src\resources\weapons\crossbow.png
+ID:201 name:Cloak min:00 max:00 armor:03 rarity:1 url:src\resources\armour\cloak.jpg
+ID:202 name:Sturdy armor min:00 max:00 armor:06 rarity:2 url:src\resources\armour\leather armour.jpg
+ID:203 name:Plate armor min:00 max:00 armor:09 rarity:3 url:src\resources\armour\plate armour.png
+ID:204 name:Full armor min:00 max:00 armor:15 rarity:3 url:src\resources\armour\full armour.jpg
+ID:205 name:Holy armor min:05 max:05 armor:12 rarity:4 url:src\resources\armour\holy armour.png
+ID:301 name:Health Potion min:00 max:00 armor:00 rarity:1 url:src\resources\healthPotion2.png
+ID:302 name:Health Potion min:00 max:00 armor:00 rarity:2 url:src\resources\healthPotion2.png
+ID:303 name:Health Potion min:00 max:00 armor:00 rarity:3 url:src\resources\healthPotion2.png
+ID:304 name:Health Potion min:00 max:00 armor:00 rarity:4 url:src\resources\healthPotion2.png
