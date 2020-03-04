@@ -45,10 +45,10 @@ public class TheDungeon {
 	static boolean bossFight = false;
 	
 	// constants
-	final static int LOOT_CHANCE = 50; 	// % chance to find treasure chest in room
+	final static int LOOT_CHANCE = 15; 	// % chance to find treasure chest in room
 	final static int WINDOW_WIDTH = 900;
 	final static int WINDOW_HEIGHT = 865;
-	final static int START_POTIONS = 5;	// how many health potions the player starts with
+	final static int START_POTIONS = 1;	// how many health potions the player starts with
 	
 	// command array index:			 0			1		2		3	      4			5		6(not used)
 	static String[] commandList = {"enter", "attack", "flee", "potion", "leave", "take", "inspect"};

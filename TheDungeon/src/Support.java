@@ -112,19 +112,6 @@ public class Support {
 		return enemy;
 	}
 	
-//	public static Enemy getEnemy(String name) {
-//		
-//		TheDungeon.state = 1;
-//		Enemy enemy = null;
-//		if (name.equals("MIMIC")) {
-//			enemy = new Mimic();
-//			TheDungeon.enemy.healthBar();
-//			//TheDungeon.enemyHealth.setMaximum(TheDungeon.enemy.maxHp);
-//			refresh();
-//		}
-//		return enemy;
-//	}	
-	
 	public static ImageIcon scale(ImageIcon original, int width, int height) {
 		ImageIcon pic = original;
 		ImageIcon scaled = new ImageIcon(pic.getImage().getScaledInstance(width, height, Image.SCALE_DEFAULT));

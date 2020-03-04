@@ -192,7 +192,7 @@ public class Commands {
 
 	private static void lootChest() {
 		// test for mimic based on dungeon level
-		if (Support.random(1, 20) > (TheDungeon.dungeonLevel - 1) && TheDungeon.enemy != null
+		if (Support.random(1, 20) < (TheDungeon.dungeonLevel - 1) && TheDungeon.enemy != null
 				&& !TheDungeon.enemy.name.equals("Mimic")) {
 			TheDungeon.state = 1;
 			TheDungeon.enemy = Support.getEnemy("MIMIC");
